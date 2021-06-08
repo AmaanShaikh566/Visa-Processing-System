@@ -1,0 +1,3 @@
+# Visa-Processing-System
+Visa processing system (VPS) is web-based tool to reduce communication gap between Visa officer and Applicant. Especially in fast growing IT market technologies are changing very fast, based on technology it reduces manual process of visa processing. This process will make visa processing very easy, fast and by one sitting the applicant can apply for visa, and can check the status of visa regularly
+The main objective of this solution is to make visa processing easy. This system is designed by keeping in mind both parties like visa processing officers and applicants. System allows applicant to apply for visa, etc. 
