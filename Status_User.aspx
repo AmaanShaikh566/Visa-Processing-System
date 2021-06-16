@@ -19,7 +19,8 @@
 }
 
 body{
-   background-color: #f3f5f9;
+   
+    background-color:#325670;
 }
 
 .wrapper{
@@ -113,12 +114,12 @@ a:not([href]):not([tabindex]):focus {
 
 .main
 {
-    background-color:#325670;
+   
 }
 .D1
 {
     margin-top:30px;
-    width:82%;
+    width:77%;
     left:50%;
     margin-left:280px;
     text-align:center;
@@ -170,12 +171,7 @@ a:not([href]):not([tabindex]):focus {
             <br />
             <br />
             <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
+           
             <br />
 
             <br />
