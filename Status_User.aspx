@@ -154,32 +154,7 @@ a:not([href]):not([tabindex]):focus {
             <br />
             <br />
             <asp:Label ID="Label2" runat="server" />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-            <br />
-           <br />
-            <br />
-            <br />
-            <br />
-            <br />
            
-            <br />
-
-            <br />
-
-            <br />
-            <br />
-            <br />
-            <br />
         </div>
     </form>
            </div>
